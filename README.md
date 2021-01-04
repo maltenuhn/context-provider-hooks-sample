@@ -1,2 +1,2 @@
 # context-provider-hooks-sample
-Created with CodeSandbox
+Sample project to test context provider components and hooks
